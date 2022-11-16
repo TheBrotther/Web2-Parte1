@@ -1,0 +1,40 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 42%;
+}
+
+.Fuerza{
+    background-color: rgb(133, 13, 13);
+}
+
+.Agilidad{
+    background-color: green;
+} 
+
+.Inteligencia{
+    background-color: lightskyblue;
+}
+
+.tabla{
+    border-style: inset;
+}
+
+.td_size_heroes{
+    width: 80%;
+}
+
+.td_size_atributos{
+    width: 100%;
+
+}
+
+.btn-border{
+    border-style:ridge;
+    border-radius: 12px;
+    
+}
+
+.btn-border.size-{
+    width: 60%;
+}
